@@ -2,7 +2,7 @@
 
 ## Скринкаст работы интеграции
 
-[![Watch the video](https://img.youtube.com/vi/eIq_WRiYTIo/maxresdefault.jpg)](https://www.youtube.com/watch?v=eIq_WRiYTIo)
+[![Watch the video](.md/screencast-preview.gif)](https://www.youtube.com/watch?v=eIq_WRiYTIo)
 
 ## Функциональность
 
