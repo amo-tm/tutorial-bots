@@ -1,4 +1,8 @@
-### Примеры интеграции с amo | корпоративный мессенджер
+# Примеры интеграции с amo | корпоративный мессенджер
+
+## Скринкаст работы интеграции
+
+[![Watch the video](https://img.youtube.com/vi/eIq_WRiYTIo/maxresdefault.jpg)](https://youtu.be/eIq_WRiYTIo)
 
 ## Функциональность
 
@@ -57,7 +61,7 @@ composer install -o
 TUTORIAL_WIDGET_EXAMPLE_1_ID=your_widget_id AMO_CLIENT_ID=your_client_id AMO_CLIENT_SECRET=your_client_secret php -S 0.0.0.0:8080 -t public/
 ```
 
-4. Запустить ngrok
+3. Запустить ngrok
 
 ```shell
 ngrok http 8080
